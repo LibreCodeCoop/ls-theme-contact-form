@@ -1,0 +1,62 @@
+/******************
+    User custom CSS
+    ---------------
+
+    In this file you can add your own custom CSS
+    It will be loaded last, so you can override any other property.
+    Also, it will never be updated. So if you inheritate a core template and just add here some CSS, you'll still benefit of all the updates
+*/
+body {
+    padding:0;
+}
+.answer-container {
+    padding: 0;
+}
+.answer-container .ls-answers {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.question-container {
+    margin-bottom: 0;
+}
+
+.question-title-container {
+    padding-top: 26px;
+}
+
+.prefix-text {
+    display: none;
+}
+
+.form input, .form textarea {
+	border-radius: 0;
+	box-shadow: none;
+	font-size: 14px;
+}
+
+.fruity .btn-primary {
+    background: #007bff;
+    border: 0;
+    border-radius: 20px;
+    padding: 8px 30px;
+    color: #fff;
+    transition: 0.3s;
+}
+.fruity .btn-primary:hover {
+    background: #0067d5;
+    cursor: pointer;
+    border: 0;
+}
+.fruity .form-control:focus {
+	border: 1px solid #007bff;
+	box-shadow: none;
+}
+.container {
+    width: 100%;
+}
+
+.space-col {
+    margin-bottom: 0;
+}
