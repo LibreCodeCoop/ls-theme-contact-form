@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-
-    (¯`·._.·(¯`·._.· Fruity Theme Manifest  ·._.·´¯)·._.·´¯)
-
-    Base configuration for Fruity Theme.
+    Base configuration for Contact Form Theme.
     The content of this file is imported into DB when you install the template.
-
 -->
 <config>
     <!-- Those metadata are displayed in the theme configuration page.  -->
     <metadata>
-        <name>site-lt</name>
-        <title>Fruity Theme</title>
+        <name>contact-form</name>
+        <title>Contact Form Theme</title>
         <type>theme</type>
         <creationDate>2020-12-29 11:17</creationDate>
-        <author>admin</author>
+        <author>Lyseon Tech</author>
         <authorEmail>contato@lt.coop.br</authorEmail>
-        <authorUrl>http://www.limesurvey.org</authorUrl>
-        <copyright>Copyright (C) 2005 - 2019 LimeSurvey Gmbh, Inc. All rights reserved.</copyright>
+        <authorUrl>http://www.LT.coop.br</authorUrl>
+        <copyright>Copyright (C) 2020 Lyseon Tech.</copyright>
         <license>GNU General Public License version 2 or later</license>
-        <version>3.0.1</version>
+        <version>1.0.0</version>
         <apiVersion>3</apiVersion>
         <description twig="on"><![CDATA[<strong>{{gT("LimeSurvey Fruity Theme")}}</strong><br>{{gT("A fruity theme for a flexible use. This theme offers monochromes variations and many options for easy customizations.")}}]]></description>
         <lastUpdate>2020-12-30 23:55:43</lastUpdate>
