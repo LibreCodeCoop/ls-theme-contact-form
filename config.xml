@@ -10,10 +10,10 @@
         <title>Contact Form Theme</title>
         <type>theme</type>
         <creationDate>2020-12-29 11:17</creationDate>
-        <author>Lyseon Tech</author>
-        <authorEmail>contato@lt.coop.br</authorEmail>
-        <authorUrl>http://www.LT.coop.br</authorUrl>
-        <copyright>Copyright (C) 2020 Lyseon Tech.</copyright>
+        <author>LibreCode</author>
+        <authorEmail>contato@librecode.coop</authorEmail>
+        <authorUrl>http://www.librecode.coop</authorUrl>
+        <copyright>Copyright (C) 2021 LibreCode.</copyright>
         <license>GNU General Public License version 2 or later</license>
         <version>1.0.0</version>
         <apiVersion>3</apiVersion>
